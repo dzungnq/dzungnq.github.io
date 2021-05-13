@@ -16,14 +16,14 @@ window.onload = function() {
     }
   
     var messages = [
-      'Hey there 👋',
-      'I\'m Dzung 👦',
+      'Hey there 👋🏻',
+      'I\'m Dzung 👦🏻',
       'A Software Developer from Vietnam',
       'I design and code things on the web',
       'I\'m currently accepting freelance work',
       'You can contact me at <a href="mailto:hello@dzungnq.dev">hello@dzungnq.dev</a>',
-      'Connect with me on linkedin 👉 <a target="_blank" href="https://www.linkedin.com/in/dung-nguyen-quoc-b8a4b8176/">Dzung Nguyen</a>',
-      'My github 👉 <a target="_blank" href="https://github.com/dzungnq">dzungnq</a>',
+      'Connect with me on linkedin 👉🏻 <a target="_blank" href="https://www.linkedin.com/in/dung-nguyen-quoc-b8a4b8176/">Dzung Nguyen</a>',
+      'My github 👉🏻 <a target="_blank" href="https://github.com/dzungnq">dzungnq</a>',
       getCurrentTime(),
       '👀 Dzung Nguyen'
     ]
