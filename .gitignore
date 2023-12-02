@@ -1,0 +1,28 @@
+# project
+_site
+.sass-cache
+.vagrant
+.bundle
+vendor
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+Gemfile.lock
+
+beautiful-jekyll-theme-*.gem
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### VS Code ###
+.vscode/
+**/.DS_Store
